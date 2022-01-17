@@ -1,2 +1,2 @@
 # JumpingJur0
-Vim is the best editor in Milky Way
+Vim is the best editor in the Milky Way
